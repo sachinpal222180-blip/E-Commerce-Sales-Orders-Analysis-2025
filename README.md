@@ -35,4 +35,10 @@ This project helped me strengthen my practical skills in Excel and Data Analytic
 
 💡 𝐅𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐚𝐧𝐝 𝐬𝐮𝐠𝐠𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐚𝐫𝐞 𝐚𝐥𝐰𝐚𝐲𝐬 𝐰𝐞𝐥𝐜𝐨𝐦𝐞!
 
-Sachin Pal...
+## 👨‍💻 Developed By
+
+**Sachin Pal**  
+
+B.Sc. IT Graduate | Data Analytics Learner
+
+📊 Skills: Microsoft Power BI | Microsoft Excel | SQL | Python
